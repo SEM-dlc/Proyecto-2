@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+    #Contenido2{
+        background-image: url(fondo1.png);
+        height: 150px;
+    }
+.barra{
+    background-color: rgb(165, 0, 0);
+    height: 40px;
+    text-align: right;
+}
+#Contenido2{
+    background-color: rgb(226, 222, 222);
+    color: rgb(0, 0, 0);
+    height: auto;
+}
+.piePagina{
+    background-color: rgb(226, 222, 222);
+    height: auto;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+}
+div ul{
+    list-style: none;
+}
+div li{
+    display: inline;
+    margin: 15px;
+}
+li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+#Contenido p{
+    text-align: center;
+    display: block;
+}
+.contenedor{
+    position: relative;    
+    display: inline-block;
+    text-align: center;
+}
+#informacion{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: auto;
+}
